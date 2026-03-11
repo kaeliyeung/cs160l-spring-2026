@@ -30,7 +30,6 @@ public abstract class Course {
         // you may leverage the isClassFull function below
 
         //TODO if all the checks pass, add the student to the the course list "studentsEnrolled"
-
     }
 
     private boolean studentAlreadyPresent(Student student) {
